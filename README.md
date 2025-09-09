@@ -1,8 +1,59 @@
-# React + Vite
+# Dukan App Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of a Dukan App Clone built with modern web technologies.  
+The goal of this project is to replicate core features of the Dukan app, focusing on a clean UI, smooth user experience, and scalability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## ✨ Features
+
+- 🏠 Home feed with product listings
+
+- 📄 Individual product detail pages
+
+- 🛒 Shopping cart UI
+  
+- 🎨 Modern responsive UI with Tailwind CSS
+  
+- ⚡ Built using React + Vite for blazing-fast development
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (with hooks)  
+- **Vite** (build tool)  
+- **TypeScript**  
+- **Tailwind CSS** (styling)  
+- **React Router** (routing)  
+- **Axios** (API calls)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/aCoderOfTheSevenKingdoms/dukan-app-clone.git
+cd dukan-app-clone
+```
+
+### 2. Install the dependencies
+```bash
+npm install
+```
+
+### 3. Start the development server
+```bash
+npm run dev
+```
+
+🧑‍💻 Author
+
+Created by Tigmamanyu✨
+
+Feel free to ⭐ the repo if you like it!
+
